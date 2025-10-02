@@ -1,0 +1,288 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Bluetooth Headphones",
+    "description": "Noise-cancelling over-ear headphones with 30 hours battery life.",
+    "price": 89.99,
+    "category": "Electronics",
+    "image": "https://images.pexels.com/photos/374137/pexels-photo-374137.jpeg",
+    "rating": { "rate": 4.5, "count": 320 }
+  },
+  {
+    "id": 2,
+    "title": "4K Ultra HD Smart TV 55-inch",
+    "description": "Crystal clear picture quality with HDR support and built-in apps.",
+    "price": 549.99,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1587206659588-9d9f85e8a8f3",
+    "rating": { "rate": 4.7, "count": 150 }
+  },
+  {
+    "id": 3,
+    "title": "Gaming Laptop 15.6”",
+    "description": "Powerful laptop with Intel i7, 16GB RAM, and RTX 3060 GPU.",
+    "price": 1299.99,
+    "category": "Computers",
+    "image": "https://images.pexels.com/photos/374016/pexels-photo-374016.jpeg",
+    "rating": { "rate": 4.6, "count": 90 }
+  },
+  {
+    "id": 4,
+    "title": "Mechanical Keyboard RGB",
+    "description": "Backlit mechanical keyboard with customizable keys.",
+    "price": 59.99,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    "rating": { "rate": 4.4, "count": 240 }
+  },
+  {
+    "id": 5,
+    "title": "Ergonomic Office Chair",
+    "description": "High-back swivel chair with adjustable armrests and lumbar support.",
+    "price": 189.99,
+    "category": "Furniture",
+    "image": "https://images.pexels.com/photos/276724/pexels-photo-276724.jpeg",
+    "rating": { "rate": 4.3, "count": 130 }
+  },
+  {
+    "id": 6,
+    "title": "Electric Standing Desk",
+    "description": "Adjustable height desk with memory presets and solid frame.",
+    "price": 399.99,
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1574685213836-16f7f207779b",
+    "rating": { "rate": 4.8, "count": 75 }
+  },
+  {
+    "id": 7,
+    "title": "Stainless Steel Water Bottle",
+    "description": "Insulated bottle keeps drinks cold for 24 hours or hot for 12.",
+    "price": 19.99,
+    "category": "Kitchen",
+    "image": "https://images.pexels.com/photos/56866/pexels-photo-56866.jpeg",
+    "rating": { "rate": 4.6, "count": 410 }
+  },
+  {
+    "id": 8,
+    "title": "Air Fryer XL 5.8QT",
+    "description": "Cook crispy meals with less oil, includes 8 cooking presets.",
+    "price": 129.99,
+    "category": "Appliances",
+    "image": "https://images.unsplash.com/photo-1565472461989-eada7730bb7f",
+    "rating": { "rate": 4.7, "count": 270 }
+  },
+  {
+    "id": 9,
+    "title": "Smartphone Tripod Stand",
+    "description": "Adjustable tripod with remote shutter, compatible with iOS & Android.",
+    "price": 24.99,
+    "category": "Accessories",
+    "image": "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg",
+    "rating": { "rate": 4.2, "count": 110 }
+  },
+  {
+    "id": 10,
+    "title": "Portable Bluetooth Speaker",
+    "description": "Waterproof speaker with deep bass and 12 hours playtime.",
+    "price": 39.99,
+    "category": "Electronics",
+    "image": "https://images.pexels.com/photos/164853/pexels-photo-164853.jpeg",
+    "rating": { "rate": 4.5, "count": 520 }
+  },
+  {
+    "id": 11,
+    "title": "Digital Alarm Clock",
+    "description": "LED display with USB charging ports and adjustable brightness.",
+    "price": 29.99,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1601098455779-00f5ba35ca20",
+    "rating": { "rate": 4, "count": 210 }
+  },
+  {
+    "id": 12,
+    "title": "Cordless Vacuum Cleaner",
+    "description": "Lightweight vacuum with powerful suction and detachable battery.",
+    "price": 249.99,
+    "category": "Home",
+    "image": "https://images.pexels.com/photos/374870/pexels-photo-374870.jpeg",
+    "rating": { "rate": 4.4, "count": 180 }
+  },
+  {
+    "id": 13,
+    "title": "Men's Running Shoes",
+    "description": "Breathable mesh sneakers with cushioned sole.",
+    "price": 74.99,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1528701800484-98126fe7ac47",
+    "rating": { "rate": 4.3, "count": 350 }
+  },
+  {
+    "id": 14,
+    "title": "Women's Handbag Leather",
+    "description": "Stylish shoulder bag made of premium PU leather.",
+    "price": 59.99,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c",
+    "rating": { "rate": 4.5, "count": 200 }
+  },
+  {
+    "id": 15,
+    "title": "Stainless Steel Cookware Set",
+    "description": "10-piece nonstick pots and pans set with glass lids.",
+    "price": 179.99,
+    "category": "Kitchen",
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001f970",
+    "rating": { "rate": 4.7, "count": 140 }
+  },
+  {
+    "id": 16,
+    "title": "Electric Toothbrush",
+    "description": "Rechargeable toothbrush with 5 brushing modes.",
+    "price": 49.99,
+    "category": "Health",
+    "image": "https://images.pexels.com/photos/416541/pexels-photo-416541.jpeg",
+    "rating": { "rate": 4.6, "count": 310 }
+  },
+  {
+    "id": 17,
+    "title": "LED Desk Lamp",
+    "description": "Touch control lamp with adjustable brightness and USB charging port.",
+    "price": 34.99,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1528231823470-cf47486f0a45",
+    "rating": { "rate": 4.2, "count": 170 }
+  },
+  {
+    "id": 18,
+    "title": "Noise Cancelling Earbuds",
+    "description": "True wireless earbuds with active noise cancellation and case.",
+    "price": 99.99,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1512496015851-a02d74202ba3",
+    "rating": { "rate": 4.4, "count": 460 }
+  },
+  {
+    "id": 19,
+    "title": "Kids Building Blocks Set",
+    "description": "120-piece colorful blocks set for creative play.",
+    "price": 29.99,
+    "category": "Toys",
+    "image": "https://images.pexels.com/photos/281260/pexels-photo-281260.jpeg",
+    "rating": { "rate": 4.8, "count": 530 }
+  },
+  {
+    "id": 20,
+    "title": "Smart Fitness Watch",
+    "description": "Tracks heart rate, sleep, and 20+ sport modes.",
+    "price": 79.99,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1549576490-b0b4831ef60a",
+    "rating": { "rate": 4.5, "count": 390 }
+  },
+  {
+    "id": 21,
+    "title": "Professional DSLR Camera",
+    "description": "24MP DSLR with 18-55mm lens kit and Wi-Fi.",
+    "price": 649.99,
+    "category": "Cameras",
+    "image": "https://images.pexels.com/photos/36487/pexels-photo.jpg",
+    "rating": { "rate": 4.6, "count": 145 }
+  },
+  {
+    "id": 22,
+    "title": "Coffee Maker 12-Cup",
+    "description": "Programmable coffee machine with auto shut-off.",
+    "price": 89.99,
+    "category": "Kitchen",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+    "rating": { "rate": 4.3, "count": 275 }
+  },
+  {
+    "id": 23,
+    "title": "Pet Bed Medium Size",
+    "description": "Soft washable bed for dogs and cats.",
+    "price": 39.99,
+    "category": "Pets",
+    "image": "https://images.pexels.com/photos/416160/pexels-photo-416160.jpeg",
+    "rating": { "rate": 4.7, "count": 120 }
+  },
+  {
+    "id": 24,
+    "title": "Camping Tent 4-Person",
+    "description": "Waterproof tent with easy setup and carry bag.",
+    "price": 159.99,
+    "category": "Outdoors",
+    "image": "https://images.unsplash.com/photo-1503185912284-5271ff81b9a8",
+    "rating": { "rate": 4.4, "count": 95 }
+  },
+  {
+    "id": 25,
+    "title": "Yoga Mat Extra Thick",
+    "description": "Non-slip mat ideal for yoga, pilates, and stretching.",
+    "price": 29.99,
+    "category": "Sports",
+    "image": "https://images.pexels.com/photos/4056723/pexels-photo-4056723.jpeg",
+    "rating": { "rate": 4.5, "count": 260 }
+  },
+  {
+    "id": 26,
+    "title": "Electric Guitar Starter Pack",
+    "description": "Includes guitar, amplifier, strap, and picks.",
+    "price": 249.99,
+    "category": "Music",
+    "image": "https://images.unsplash.com/photo-1511376777868-611b54f68947",
+    "rating": { "rate": 4.6, "count": 80 }
+  },
+  {
+    "id": 27,
+    "title": "Hardcover Journal Notebook",
+    "description": "200 pages of premium paper, elastic closure.",
+    "price": 14.99,
+    "category": "Stationery",
+    "image": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f",
+    "rating": { "rate": 4.8, "count": 300 }
+  },
+  {
+    "id": 28,
+    "title": "Board Game Family Fun",
+    "description": "Strategy board game suitable for ages 8+.",
+    "price": 34.99,
+    "category": "Toys",
+    "image": "https://images.pexels.com/photos/20963/board-game-game-board-table.jpg",
+    "rating": { "rate": 4.7, "count": 220 }
+  },
+  {
+    "id": 29,
+    "title": "Electric Kettle 1.7L",
+    "description": "Stainless steel kettle with auto shut-off.",
+    "price": 49.99,
+    "category": "Kitchen",
+    "image": "https://images.unsplash.com/photo-1512149673952-2eb941730d85",
+    "rating": { "rate": 4.4, "count": 410 }
+  },
+  {
+    "id": 30,
+    "title": "Smart Home Security Camera",
+    "description": "1080p Wi-Fi camera with motion detection and night vision.",
+    "price": 59.99,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1542751110-97427bbecf20",
+    "rating": { "rate": 4.6, "count": 330 }
+  },
+  {
+    "id": 31,
+    "title": "test product",
+    "description": "this is a test product",
+    "price": 29.99,
+    "category": "home",
+    "rating": { "rate": 4.8, "count": 332 }
+  },
+  {
+    "id": 32,
+    "title": "test productt",
+    "description": "this is another test product",
+    "price": 29.99,
+    "category": "home",
+    "rating": { "rate": 4.9, "count": 123 }
+  }
+]
